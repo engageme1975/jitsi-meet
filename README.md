@@ -1,6 +1,6 @@
-# <p align="center">Jitsi Meet</p>
+# <p align="center">Connect AI</p>
 
-Jitsi Meet is a set of Open Source projects which empower users to use and deploy
+Connect AI is a set of Open Source projects which empower users to use and deploy
 video conferencing platforms with state-of-the-art video quality and features.
 
 <hr />
@@ -11,7 +11,7 @@ video conferencing platforms with state-of-the-art video quality and features.
 
 <hr />
 
-Amongst others here are the main features Jitsi Meet offers:
+Amongst others here are the main features Connect AI offers:
 
 * Support for all current browsers
 * Mobile applications
@@ -25,9 +25,9 @@ Amongst others here are the main features Jitsi Meet offers:
 
 And many more!
 
-## Using Jitsi Meet
+## Using Connect AI
 
-Using Jitsi Meet is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's scalable and free to use. All you need is a Google, Facebook or GitHub account in order to start a meeting. All browsers are supported!
+Using Connect AI is straightforward, as it's browser based. Head over to your Connect AI deployment and give it a try. It's scalable and free to use. All browsers are supported!
 
 Using mobile? No problem, you can either use your mobile web browser or our fully-featured
 mobile apps:
@@ -44,7 +44,7 @@ developed you can also sign up for our open beta testing here:
 
 ## Running your own instance
 
-If you'd like to run your own Jitsi Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/) to get started.
+If you'd like to run your own Connect AI installation head over to the documentation to get started.
 
 We provide Debian packages and a comprehensive Docker setup to make deployments as simple as possible.
 Advanced users also have the possibility of building all the components from source.

@@ -1,11 +1,11 @@
 {
-  "name": "jitsi-meet",
+  "name": "connect-ai",
   "version": "0.0.0",
-  "description": "A sample app for the Jitsi Videobridge",
+  "description": "A sample app for Connect AI Videobridge",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/jitsi/jitsi-meet"
+    "url": "git://github.com/engageme1975/jitsi-meet"
   },
   "keywords": [
     "jingle",
